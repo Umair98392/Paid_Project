@@ -1,0 +1,8 @@
+                      Starting of Project
+
+1) star mongodb using
+		sudo service mongodb start
+2) start django server using
+		 python3 manage.py runserver 8080
+3) start postman from Downloads/postman.
+
